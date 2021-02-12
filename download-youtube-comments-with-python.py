@@ -1,7 +1,10 @@
-import import_ipynb
-from defines import xxxxXXXXxxxxXXXXxxxxXXXXxxxxXXXXxxxxXXX
+# Scrape Or Download Comments Using Python Through The Youtube Data API
+# Watch the youtube video for explaination
+# https://youtu.be/B9uCX2s7y7A
 
-api_key = xxxxXXXXxxxxXXXXxxxxXXXXxxxxXXXXxxxxXXX
+import import_ipynb
+
+api_key = "xxxxXXXXxxxxXXXXxxxxXXXXxxxxXXXXxxxxXXX"
 
 from apiclient.discovery import build
 
