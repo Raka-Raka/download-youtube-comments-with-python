@@ -83,7 +83,7 @@ def scrape_comments_with_replies():
 
     df.to_csv('youtube-comments.csv', index=False, header=False)
 
-    return "Successfully! Check the CSV file that you have just created."
+    return "Successful! Check the CSV file that you have just created."
 
 
 scrape_comments_with_replies()
