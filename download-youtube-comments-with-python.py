@@ -2,8 +2,6 @@
 # Watch the youtube video for explaination
 # https://youtu.be/B9uCX2s7y7A
 
-import import_ipynb
-
 api_key = "xxxxXXXXxxxxXXXXxxxxXXXXxxxxXXXXxxxxXXX"
 
 from apiclient.discovery import build
